@@ -1,5 +1,3 @@
-
-
 ## 👋🏼 Hello there!
 
 My name is **Edd** and I'm a Junior Software Engineer!
@@ -27,8 +25,6 @@ I started self-teaching early 2022, enrolled at Northcoders in June of the same 
 - Adding some more functionality to Favourquest
 - Game for my nephew where he has to save Frogs in danger!
 
-
 ## ➡️ Reach me!
 
-[<img src="socials/linkedin.png" width="50" height="50">](https://www.linkedin.com/in/edd-connolly/) 
----
+## [<img src="socials/linkedin.png" width="50" height="50">](https://www.linkedin.com/in/edd-connolly/) [<img src="socials/instagram.png" width="50" height="50">](https://www.instagram.com/eggaholic/) [<img src="socials/email.png" width="50" height="50">](mailto:eddconnolly905@msn.com)
