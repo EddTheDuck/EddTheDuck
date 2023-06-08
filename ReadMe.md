@@ -4,9 +4,9 @@ My name is **Edd** and I'm a Junior Software Engineer!
 
 When I'm not coding, I'm either playing games, fishing, or shredding the Guitar. 🎸
 
-- 📚 **Currently Reading**: Animal Farm
-- 🎮 **Currently Playing**: Breath of the Wild
-- 📺 **Currently Watching**: Rewatching Breaking Bad!
+- 📚 **Currently Reading**: Terrortome by Garth Merenghi
+- 🎮 **Currently Playing**: World of Warcraft
+- 📺 **Currently Watching**: Nothing !
 
 ## 💻 Coding Journey
 
