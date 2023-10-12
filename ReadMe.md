@@ -5,8 +5,8 @@ My name is **Edd** and I'm a Junior Software Engineer!
 When I'm not coding, I'm either playing games, fishing, or shredding the Guitar. 🎸
 
 - 📚 **Currently Reading**: Terrortome by Garth Merenghi
-- 🎮 **Currently Playing**: Dota 2
-- 📺 **Currently Watching**: Nothing !
+- 🎮 **Currently Playing**: Baldur's Gate 3
+- 📺 **Currently Watching**: The great British bake off!
 
 ## 💻 Coding Journey
 
@@ -15,13 +15,14 @@ I started self-teaching early 2022, enrolled at Northcoders in June of the same 
 ### ✨ Current Tech Skills
 
 - **Language/s**: Javascript, Typescript
-- **Frontend**: React, ReactNative, HTML5, CSS3, Vue
-- **Backend**: NodeJS, ExpressJS, SQL (PostgreSQL, mySQL), RESTful APIs, Firebase
-- **Testing**: Jest, Supertest,
+- **Frontend**: React, ReactNative, HTML5, CSS3, Vue, Next.js, Storybook.js
+- **Backend**: NodeJS, ExpressJS, SQL (PostgreSQL, mySQL), RESTful APIs, Firebase, tRPC, Prisma
+- **Testing**: Jest, Supertest, Mocha & Chai
 - **Version Control**: Git, GitHub
 
 ## ⚙️ Currently Working On
 
+- ts-snacks repo given to me by Northcoders, great Typescript practise
 - Skaven DB for my Warhammer army :)
 - Game for my nephew where he has to save Frogs in danger!
 
