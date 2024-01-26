@@ -23,7 +23,7 @@ I started self-teaching early 2022, enrolled at Northcoders in June of the same 
 ## ⚙️ Currently Working On
 
 - ts-snacks repo given to me by Northcoders, great Typescript practise
-- Skaven DB for my Warhammer army, which you can find here - https://skavenfe.netlify.app/ :)
+- Skaven DB for my Warhammer army, which you can find here - https://skavenfe.netlify.app/ (Give it a couple of minutes to wake up)
 - Game for my nephew where he has to save Frogs in danger!
 
 ## ➡️ Reach me!
