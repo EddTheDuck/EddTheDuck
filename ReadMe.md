@@ -1,16 +1,13 @@
 ## 👋🏼 Hello there!
 
-My name is **Edd** and I'm a Junior Software Engineer!
+My name is **Edd** and I'm a Software Engineer!
 
 When I'm not coding, I'm either playing games, fishing, or shredding the Guitar. 🎸
 
 - 📚 **Currently Reading**: Terrortome by Garth Merenghi
-- 🎮 **Currently Playing**: Baldur's Gate 3
-- 📺 **Currently Watching**: The great British bake off!
+- 🎮 **Currently Playing**: Warhammer 40k
+- 📺 **Currently Watching**: The Gentleman
 
-## 💻 Coding Journey
-
-I started self-teaching early 2022, enrolled at Northcoders in June of the same year and completed it in September 2023.
 
 ### ✨ Current Tech Skills
 
@@ -22,9 +19,8 @@ I started self-teaching early 2022, enrolled at Northcoders in June of the same 
 
 ## ⚙️ Currently Working On
 
-- ts-snacks repo given to me by Northcoders, great Typescript practise
+- Learning C#
 - Skaven DB for my Warhammer army, which you can find here - https://skavenfe.netlify.app/ (Give it a couple of minutes to wake up)
-- Game for my nephew where he has to save Frogs in danger!
 
 ## ➡️ Reach me!
 
